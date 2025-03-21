@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/UbuntuFetcher.dir/main.cpp.o CMakeFiles/UbuntuFetcher.dir/UbuntuImageFetcher.cpp.o -o UbuntuFetcher  /usr/lib/x86_64-linux-gnu/libcurl.so

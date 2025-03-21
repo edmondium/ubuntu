@@ -1,0 +1,3 @@
+/home/edmondium/ubuntu/build/CMakeFiles/UbuntuFetcher.dir
+/home/edmondium/ubuntu/build/CMakeFiles/edit_cache.dir
+/home/edmondium/ubuntu/build/CMakeFiles/rebuild_cache.dir
