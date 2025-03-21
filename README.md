@@ -34,8 +34,8 @@ vcpkg install curl nlohmann-json
 ## Build Instructions
 1. Clone the repository:
    ```sh
-   git clone <repo_url>
-   cd ubuntu-image-fetcher
+   git clone https://github.com/edmondium/ubuntu.git
+   cd ubuntu
    ```
 2. Create a build directory:
    ```sh
